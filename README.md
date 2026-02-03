@@ -1,6 +1,6 @@
 # Zuba — React landing scaffold
 
-This is a minimal Vite + React scaffold that reproduces the screenshot-style landing page. It references two images from the project's `assets` folder:
+This is a website for Zuba coin.`assets` folder:
 
 - `/assets/logo.png` (logo)
 - `/assets/backgroug.png` (hero/right image)
