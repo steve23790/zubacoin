@@ -1229,7 +1229,7 @@ body.mobile-menu-open{
 .rope-lines{position:absolute;top:12px;left:50%;width:480px;height:6px;margin-left:-240px;background:linear-gradient(90deg,#d5b27a,#c89a56);transform:rotate(-12deg);box-shadow:0 10px 20px rgba(0,0,0,0.25)}
 .contact-board{width:640px;max-width:92%;background:linear-gradient(180deg, rgba(106,59,209,0.22), rgba(88,40,176,0.18));border:18px solid rgba(145,104,255,0.18);border-radius:8px;padding:48px 38px;text-align:center;transform:rotate(-8deg);box-shadow:0 28px 40px rgba(0,0,0,0.28);position:relative}
 .contact-board h3{font-family:'Luckiest Guy',sans-serif;font-size:42px;color:#fff;margin:0 0 12px}
-.contact-address{font-family:'Patrick Hand',sans-serif;color:#fff;font-weight:800;font-size:18px;margin-bottom:20px}
+.contact-address{font-family:'Patrick Hand',sans-serif;color:#fff;font-weight:800;font-size:18px;margin-bottom:20px;word-break:break-all;overflow-wrap:anywhere;max-width:100%}
 .copy-btn{background:linear-gradient(180deg,#ffd24a,#f4a800);border:none;color:#fff;padding:12px 22px;border-radius:22px;font-weight:800;cursor:pointer;box-shadow:0 10px 0 rgba(0,0,0,0.14)}
 
 @media (max-width:900px){
