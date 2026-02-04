@@ -21,7 +21,7 @@ export default function Contact(){
         <div className="rope-lines" />
 
         <div className="contact-board" role="region" aria-label="contact address">
-          <h3>CONTACT ADDRESS</h3>
+          <h3>CONTRACT ADDRESS</h3>
           <div className="contact-address">{address}</div>
           <button className="copy-btn" onClick={copy}>{copied? 'COPIED' : 'COPY ADDRESS'}</button>
         </div>
