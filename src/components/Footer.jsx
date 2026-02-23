@@ -48,6 +48,8 @@ export default function Footer({ onNavigate = () => {} }){
             <ul>
               <li><a className="footer-link" href="/whitepaper.pdf" target="_blank" rel="noopener noreferrer">Whitepaper</a></li>
               <li><a className="footer-link" href="https://dexscreener.com/bsc/0xdcc6c7cb227dc0d3544717902dcd92e4bac15a7e" target="_blank" rel="noopener noreferrer">Chart</a></li>
+               <li><a className="footer-link" href="https://gitlab.com/vital-block-security/Project-KYC-Verification/-/blob/main/ZUBA_TOKEN_KYC_CERTIFICATE.pdf" target="_blank" rel="noopener noreferrer">KYC Certification</a></li>
+              <li><a className="footer-link" href="https://github.com/VBS-Labs/Audit-Report/blob/main/ZUBA%20TOKEN%20CONTRACT%20AUDIT%20REPORT.pdf" target="_blank" rel="noopener noreferrer">Audit</a></li>
               <li><button type="button" className="footer-link" onClick={() => onNavigate('about')}>About</button></li>
             </ul>
           </div>
